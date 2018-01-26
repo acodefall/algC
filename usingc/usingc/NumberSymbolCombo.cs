@@ -11,7 +11,8 @@ namespace usingc
         /*
             Input is "123". We have to intersperse + and - among them 
             Like "1+2+3" 
-
+			
+			output:
             + 1 + 2 + 3 = 6
             + 1 + 2 - 3 = 0
             + 1 - 2 + 3 = 2
